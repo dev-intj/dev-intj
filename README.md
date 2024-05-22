@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-intj&label=Profile%20views&color=0e75b6&style=flat" alt="dev-intj" /> </p>
 
-- 🔭 I’m currently working on [Skroutz in React](https://github.com/dev-intj/skroutz-in-react) [React Render Wave]([https://github.com/dev-intj/skroutz-in-react](https://github.com/dev-intj/react-render-wave))
+- 🔭 I’m currently working on [Skroutz in React](https://github.com/dev-intj/skroutz-in-react) [React Render Wave](https://github.com/dev-intj/react-render-wave)
 
 - 🌱 I’m currently learning **Angular, Cypress, Jest**
 
