@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Skroutz in React](https://github.com/dev-intj/skroutz-in-react), [React Render Wave](https://github.com/dev-intj/react-render-wave)
 
-- 💼 Developed [Discord Server Cloner v.0](https://github.com/dev-intj/server-cloner) (Most of the code is in private report cause I sold it)
+- 💼 Developed [Discord Server Cloner v.0](https://github.com/dev-intj/server-cloner) (Most of the code is in private repo cause I sold it)
 
 - 🌱 I’m currently learning **Angular, Cypress, Jest**
 
