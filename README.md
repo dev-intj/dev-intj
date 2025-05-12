@@ -21,7 +21,7 @@
   agent-driven UIs.
   
 
-- To use the packages I am working in a real application code, I am also cloning skroutz, see this [Skroutz in React](https://github.com/dev-intj/skroutz-in-react).
+- To use the packages I am working in a real application code, in the form of cloning skroutz ( it still needs a llot of work ), see this [Skroutz in React](https://github.com/dev-intj/skroutz-in-react).
 
 - 💼 Developed [Discord Server Cloner v.0](https://github.com/dev-intj/server-cloner) (Most of the code is in private repo cause I sold it)
 
